@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 11,
+                        "endColumn": 17,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endLine": 21,
+                    "endColumn": 17,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endLine": 21,
+                        "endColumn": 17,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 57,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 57,
+                        "endOffset": 1111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1116,
+                    "endColumn": 95,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 95,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 358,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endColumn": 358,
+                        "endOffset": 1566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 142,
+                    "endOffset": 1709
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1571,
+                        "endColumn": 142,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1714,
+                    "endColumn": 248,
+                    "endOffset": 1958
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1714,
+                        "endColumn": 248,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1963,
+                    "endColumn": 265,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1963,
+                        "endColumn": 265,
+                        "endOffset": 2224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 104,
+                    "endOffset": 2329
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2229,
+                        "endColumn": 104,
+                        "endOffset": 2329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2334,
+                    "endColumn": 302,
+                    "endOffset": 2632
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2334,
+                        "endColumn": 302,
+                        "endOffset": 2632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2637,
+                    "endColumn": 124,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2637,
+                        "endColumn": 124,
+                        "endOffset": 2757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 112,
+                    "endOffset": 2870
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2762,
+                        "endColumn": 112,
+                        "endOffset": 2870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2875,
+                    "endColumn": 118,
+                    "endOffset": 2989
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2875,
+                        "endColumn": 118,
+                        "endOffset": 2989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2994,
+                    "endColumn": 97,
+                    "endOffset": 3087
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2994,
+                        "endColumn": 97,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3092,
+                    "endColumn": 133,
+                    "endOffset": 3221
+                },
+                "from": {
+                    "file": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/values-fr-rCA/values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 3092,
+                        "endColumn": 133,
+                        "endOffset": 3221
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"Пн"</item>
+    <item msgid="1723794399812139988">"Пн-Сх"</item>
+    <item msgid="8995696828344274905">"Сх"</item>
+    <item msgid="8971984494345895781">"Пд-Сх"</item>
+    <item msgid="7174645718252695865">"Пд"</item>
+    <item msgid="4863051572593926737">"Пд-Зх"</item>
+    <item msgid="6823513192569584945">"Зх"</item>
+    <item msgid="1255372719355902587">"Пд-Зх"</item>
+  </string-array>
+    <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">на північ</item>
+    <item msgid="4350548105276290005">на північний схід</item>
+    <item msgid="2941955296001395559">на схід</item>
+    <item msgid="7564496420537720517">на південний схід</item>
+    <item msgid="7734963361324256142">на південь</item>
+    <item msgid="2308335477702894344">на південний захід</item>
+    <item msgid="1360397508757498197">на захід</item>
+    <item msgid="5107967783299132090">на північний захід</item>
+  </string-array>
+    <string name="maps_API_OUTDATED_WARNING">\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0430\u0020\u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0020\u0437\u0430\u0441\u0442\u0430\u0440\u0456\u043b\u0443\u0020\u0432\u0435\u0440\u0441\u0456\u044e\u0020\u041a\u0430\u0440\u0442.\u0020\u0412\u043e\u043d\u0430\u0020\u043c\u043e\u0436\u0435\u0020\u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438\u0020\u043d\u0435\u043d\u0430\u043b\u0435\u0436\u043d\u0438\u043c\u0020\u0447\u0438\u043d\u043e\u043c.</string>
+    <string name="maps_COMPASS_ALT_TEXT">\u041a\u043e\u043c\u043f\u0430\u0441</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Пошук напрямків</string>
+    <string name="maps_GOOGLE_MAP">Google Maps</string>
+    <string name="maps_LEVEL_ALT_TEXT">Рівень {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">\u041c\u043e\u0454\u0020\u043c\u0456\u0441\u0446\u0435\u0437\u043d\u0430\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">Відкрити в Картах</string>
+    <string msgid="3304805242996771621" name="maps_YOUR_LOCATION">Поточне місцезнаходження</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">\u0417\u0431\u0456\u043b\u044c\u0448\u0438\u0442\u0438</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">\u0417\u043c\u0435\u043d\u0448\u0438\u0442\u0438</string>
+    <string msgid="2643616411547805051" name="maps_dav_map_copyrights_full">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Зображення ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>, Дані карти ©<ns1:g id="COPYRIGHT_YEAR_2">%4$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%5$s</ns1:g>"</string>
+    <string msgid="2340776877486681415" name="maps_dav_map_copyrights_google_only">"©<ns1:g id="COPYRIGHT_YEAR">%1$d</ns1:g> Google"</string>
+    <string msgid="4796406852640794459" name="maps_dav_map_copyrights_imagery_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Зображення ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="7421961728654750951" name="maps_dav_map_copyrights_map_data_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Дані карти: ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="5618016850433253177" name="maps_invalid_panorama_data">"Недійсний дані панорами."</string>
+    <string msgid="852879677528638846" name="maps_network_unavailable">"Для цієї програми потрібне передавання даних. Спробу буде повторено автоматично. Перевірте рівень сигналу. Режим для літака ввімкн.? Дані роумінгу вимкн.?"</string>
+    <string msgid="5724478591902584421" name="maps_no_panorama_data">"Дані панорами не задано."</string>
+    <string msgid="504349892431320733" name="maps_panorama_disabled">"Зображення недоступне"</string>
+    <string msgid="5623163711058333956" name="maps_service_unavailable">"Перегляд вулиць недоступний."</string>
+    <string msgid="8614145121611139475" name="maps_street_range_name_format">"%1$s %2$s"</string>
+    <string msgid="4679308263892194242" name="maps_waiting_for_network">"Передав. даних втрачено, повт. спроба…"</string>
+</resources>

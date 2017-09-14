@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/debug/drawable-anydpi-v21/maps_watermark_light.xml",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/src/main/res/drawable-anydpi-v21/maps_watermark_light.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/debug/drawable-anydpi-v21/maps_watermark_color.xml",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/src/main/res/drawable-anydpi-v21/maps_watermark_color.xml"
+    }
+]

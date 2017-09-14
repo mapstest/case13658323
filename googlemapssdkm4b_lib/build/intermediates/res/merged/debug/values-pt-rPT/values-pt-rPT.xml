@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"N"</item>
+    <item msgid="1723794399812139988">"NE"</item>
+    <item msgid="8995696828344274905">"E"</item>
+    <item msgid="8971984494345895781">"SE"</item>
+    <item msgid="7174645718252695865">"S"</item>
+    <item msgid="4863051572593926737">"SO"</item>
+    <item msgid="6823513192569584945">"O"</item>
+    <item msgid="1255372719355902587">"NO"</item>
+  </string-array>
+    <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">norte</item>
+    <item msgid="4350548105276290005">nordeste</item>
+    <item msgid="2941955296001395559">leste</item>
+    <item msgid="7564496420537720517">sudeste</item>
+    <item msgid="7734963361324256142">sul</item>
+    <item msgid="2308335477702894344">sudoeste</item>
+    <item msgid="1360397508757498197">oeste</item>
+    <item msgid="5107967783299132090">noroeste</item>
+  </string-array>
+    <string name="maps_API_OUTDATED_WARNING">Esta\u0020aplic.\u0020utiliza\u0020uma\u0020versão\u0020desatualizada\u0020do\u0020Google\u0020Maps.\u0020Poderá\u0020não\u0020funcionar\u0020devidamente.</string>
+    <string name="maps_COMPASS_ALT_TEXT">Bússola</string>
+    <string name="maps_LEVEL_ALT_TEXT">Nível {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">A\u0020Minha\u0020Localização</string>
+    <string msgid="3304805242996771621" name="maps_YOUR_LOCATION">A sua localização atual</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Ampliar</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Reduzir</string>
+    <string msgid="2643616411547805051" name="maps_dav_map_copyrights_full">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Imagens © <ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>, Dados de mapas ©<ns1:g id="COPYRIGHT_YEAR_2">%4$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%5$s</ns1:g>"</string>
+    <string msgid="2340776877486681415" name="maps_dav_map_copyrights_google_only">"©<ns1:g id="COPYRIGHT_YEAR">%1$d</ns1:g> Google"</string>
+    <string msgid="4796406852640794459" name="maps_dav_map_copyrights_imagery_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Imagens ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="7421961728654750951" name="maps_dav_map_copyrights_map_data_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Dados de mapas ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="5618016850433253177" name="maps_invalid_panorama_data">"Panorama inválido."</string>
+    <string msgid="852879677528638846" name="maps_network_unavailable">"Este programa requer uma ligação de dados, pelo que tentará de novo estabelecer ligação automaticamente. Verifique a intensidade do sinal. O modo de avião está ligado? Os dados de roaming estão desativados?"</string>
+    <string msgid="5724478591902584421" name="maps_no_panorama_data">"Não estão definidos dados de panorama."</string>
+    <string msgid="504349892431320733" name="maps_panorama_disabled">"A imagem já não está disponível"</string>
+    <string msgid="5623163711058333956" name="maps_service_unavailable">"Serviço de Street View indisponível."</string>
+    <string msgid="8614145121611139475" name="maps_street_range_name_format">"%1$s %2$s"</string>
+    <string msgid="4679308263892194242" name="maps_waiting_for_network">"Lig. dados perdida. A tentar…"</string>
+</resources>

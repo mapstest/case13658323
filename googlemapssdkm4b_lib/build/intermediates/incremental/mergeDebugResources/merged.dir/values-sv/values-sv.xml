@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"N"</item>
+    <item msgid="1723794399812139988">"NO"</item>
+    <item msgid="8995696828344274905">"O"</item>
+    <item msgid="8971984494345895781">"SO"</item>
+    <item msgid="7174645718252695865">"S"</item>
+    <item msgid="4863051572593926737">"SV"</item>
+    <item msgid="6823513192569584945">"V"</item>
+    <item msgid="1255372719355902587">"NV"</item>
+  </string-array>
+    <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">nord</item>
+    <item msgid="4350548105276290005">nordost</item>
+    <item msgid="2941955296001395559">ost</item>
+    <item msgid="7564496420537720517">sydost</item>
+    <item msgid="7734963361324256142">syd</item>
+    <item msgid="2308335477702894344">sydväst</item>
+    <item msgid="1360397508757498197">väst</item>
+    <item msgid="5107967783299132090">nordväst</item>
+  </string-array>
+    <string name="maps_API_OUTDATED_WARNING">Denna\u0020app\u0020använder\u0020en\u0020gammal\u0020version\u0020av\u0020Maps.\u0020Den\u0020kanske\u0020inte\u0020fungerar\u0020korrekt.</string>
+    <string name="maps_COMPASS_ALT_TEXT">Kompass</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Hämta vägbeskrivning</string>
+    <string name="maps_GOOGLE_MAP">Google-karta</string>
+    <string name="maps_LEVEL_ALT_TEXT">Nivå {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Min\u0020plats</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">Öppna i Google Maps</string>
+    <string msgid="3304805242996771621" name="maps_YOUR_LOCATION">Din nuvarande plats</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Zooma\u0020in</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Zooma\u0020ut</string>
+    <string msgid="2643616411547805051" name="maps_dav_map_copyrights_full">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - bilder ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>, kartdata ©<ns1:g id="COPYRIGHT_YEAR_2">%4$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%5$s</ns1:g>"</string>
+    <string msgid="2340776877486681415" name="maps_dav_map_copyrights_google_only">"©<ns1:g id="COPYRIGHT_YEAR">%1$d</ns1:g> Google"</string>
+    <string msgid="4796406852640794459" name="maps_dav_map_copyrights_imagery_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - bilder ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="7421961728654750951" name="maps_dav_map_copyrights_map_data_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - kartdata ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="5618016850433253177" name="maps_invalid_panorama_data">"Ogiltigt panorama."</string>
+    <string msgid="852879677528638846" name="maps_network_unavailable">"Programmet kräver en dataanslutning och försöker igen automatiskt. Kontrollera signalstyrkan. Är flygplansläge på? Är datatrafik vid roaming inaktiverad?"</string>
+    <string msgid="5724478591902584421" name="maps_no_panorama_data">"Inga panoramadata har angetts."</string>
+    <string msgid="504349892431320733" name="maps_panorama_disabled">"Bilden är inte tillgänglig längre"</string>
+    <string msgid="5623163711058333956" name="maps_service_unavailable">"Street View inte tillgänglig"</string>
+    <string msgid="8614145121611139475" name="maps_street_range_name_format">"%2$s %1$s"</string>
+    <string msgid="4679308263892194242" name="maps_waiting_for_network">"Dataanslutningen bröts, försöker igen…"</string>
+</resources>

@@ -1,0 +1,19 @@
+[
+  {
+    "featureType": "poi",
+    "stylers": [
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "saturation": -30
+      }
+    ]
+  }
+]

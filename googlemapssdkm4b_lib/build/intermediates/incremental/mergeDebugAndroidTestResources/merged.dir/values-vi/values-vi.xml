@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"B"</item>
+    <item msgid="1723794399812139988">"ĐB"</item>
+    <item msgid="8995696828344274905">"Đ"</item>
+    <item msgid="8971984494345895781">"ĐN"</item>
+    <item msgid="7174645718252695865">"N"</item>
+    <item msgid="4863051572593926737">"TN"</item>
+    <item msgid="6823513192569584945">"T"</item>
+    <item msgid="1255372719355902587">"TB"</item>
+  </string-array>
+    <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">bắc</item>
+    <item msgid="4350548105276290005">đông bắc</item>
+    <item msgid="2941955296001395559">đông</item>
+    <item msgid="7564496420537720517">đông nam</item>
+    <item msgid="7734963361324256142">nam</item>
+    <item msgid="2308335477702894344">tây nam</item>
+    <item msgid="1360397508757498197">tây</item>
+    <item msgid="5107967783299132090">tây bắc</item>
+  </string-array>
+    <string name="maps_API_OUTDATED_WARNING">\u1ee8ng\u0020d\u1ee5ng\u0020này\u0020s\u1eed\u0020d\u1ee5ng\u0020m\u1ed9t\u0020phiên\u0020b\u1ea3n\u0020B\u1ea3n\u0020\u0111\u1ed3\u0020\u0111ã\u0020l\u1ed7i\u0020th\u1eddi.\u0020\u1ee8ng\u0020có\u0020th\u1ec3\u0020ho\u1ea1t\u0020\u0111\u1ed9ng\u0020không\u0020chính\u0020xác.</string>
+    <string name="maps_COMPASS_ALT_TEXT">La\u0020bàn</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Tìm Chỉ đường</string>
+    <string name="maps_GOOGLE_MAP">Bản đồ trên Google</string>
+    <string name="maps_LEVEL_ALT_TEXT">Tầng {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">V\u1ecb\u0020trí\u0020c\u1ee7a\u0020tôi</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">Mở trong Google Maps</string>
+    <string msgid="3304805242996771621" name="maps_YOUR_LOCATION">Vị trí hiện tại của bạn</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Phóng\u0020to</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Thu\u0020nh\u1ecf</string>
+    <string msgid="2643616411547805051" name="maps_dav_map_copyrights_full">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Hình ảnh ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>, Dữ liệu bản đồ ©<ns1:g id="COPYRIGHT_YEAR_2">%4$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%5$s</ns1:g>"</string>
+    <string msgid="2340776877486681415" name="maps_dav_map_copyrights_google_only">"©<ns1:g id="COPYRIGHT_YEAR">%1$d</ns1:g> Google"</string>
+    <string msgid="4796406852640794459" name="maps_dav_map_copyrights_imagery_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Hình ảnh ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="7421961728654750951" name="maps_dav_map_copyrights_map_data_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Dữ liệu bản đồ ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g> <ns1:g id="MAP_DATA_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="5618016850433253177" name="maps_invalid_panorama_data">"Dữ liệu toàn cảnh không hợp lệ."</string>
+    <string msgid="852879677528638846" name="maps_network_unavailable">"Chương trình này yêu cầu kết nối dữ liệu và sẽ tự động thử lại. Hãy kiểm tra cường độ tín hiệu. Chế độ trên máy bay có đang bật không? Dữ liệu chuyển vùng có đang bị vô hiệu hóa không?"</string>
+    <string msgid="5724478591902584421" name="maps_no_panorama_data">"Chưa đặt dữ liệu toàn cảnh nào."</string>
+    <string msgid="504349892431320733" name="maps_panorama_disabled">"Không còn ảnh nữa"</string>
+    <string msgid="5623163711058333956" name="maps_service_unavailable">"Không có dịch vụ Chế độ xem Phố."</string>
+    <string msgid="8614145121611139475" name="maps_street_range_name_format">"%1$s %2$s"</string>
+    <string msgid="4679308263892194242" name="maps_waiting_for_network">"Mất kết nối dữ liệu, đang thử lại…"</string>
+</resources>

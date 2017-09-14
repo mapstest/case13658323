@@ -1,0 +1,842 @@
+[
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_icon_gmm.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_icon_gmm.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_right_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_right_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_up_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_up_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_floorpicker_bar.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_floorpicker_bar.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_floorpicker_mylocation.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_floorpicker_mylocation.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_zoom_down.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_zoom_down.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_8_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_8_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_icon_direction.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_icon_direction.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_myl_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_myl_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_button_compass_highlighted.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_button_compass_highlighted.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_left_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_left_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_floorpicker_search.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_floorpicker_search.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/raw_maps_dav_k2.bin.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/raw/maps_dav_k2.bin"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_route_line_bright.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_route_line_bright.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_middle_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_middle_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_middle_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_middle_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_right_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_right_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_left_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_left_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_right_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_right_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_standalone_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_standalone_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_middle_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_middle_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_left_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_left_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_right_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_right_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_watermark_color.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_watermark_color.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_button_compass.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_button_compass.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_ic_compass_needle.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_ic_compass_needle.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_middle_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_middle_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_ic_compass_needle.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_ic_compass_needle.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_left_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_left_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_button_compass_highlighted.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_button_compass_highlighted.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_hybrid_6_32_high_zoom.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_hybrid_6_32_high_zoom.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_maps_watermark_light.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/maps_watermark_light.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_32_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_32_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_ic_compass_needle.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_ic_compass_needle.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_myl_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_myl_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_myl_wear.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_myl_wear.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_watermark_light.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_watermark_light.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_button_compass_highlighted.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_button_compass_highlighted.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_info_window.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_info_window.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_middle_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_middle_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_left_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_left_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_colored_polyline.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_colored_polyline.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_10_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_10_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_zoom_up.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_zoom_up.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_left_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_left_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_zoom_down_wear.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_zoom_down_wear.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_button_compass_highlighted.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_button_compass_highlighted.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_ic_compass_needle.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_ic_compass_needle.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_left_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_left_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_default_marker.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_default_marker.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_drop_shadow_gradient.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_drop_shadow_gradient.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_22_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_22_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_standalone_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_standalone_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_watermark_color.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_watermark_color.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_floorpicker_mylocation.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_floorpicker_mylocation.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_info_window.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_info_window.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_down_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_down_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_standalone_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_standalone_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_middle_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_middle_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_button_compass_highlighted.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_button_compass_highlighted.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_floorpicker_search.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_floorpicker_search.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_dashed_highlight_16_256.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_dashed_highlight_16_256.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_myl_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_myl_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_right_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_right_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_one_way_16_256.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_one_way_16_256.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_48_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_48_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_standalone.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_standalone.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_icon_gmm.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_icon_gmm.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_floorpicker_mylocation.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_floorpicker_mylocation.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_floorpicker_search.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_floorpicker_search.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_watermark_light.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_watermark_light.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_button_compass.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_button_compass.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_myl_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_myl_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_background_grid.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_background_grid.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_down_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_down_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_icon_direction.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_icon_direction.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_default_marker.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_default_marker.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_middle.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_middle.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_32_64.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_32_64.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_floorpicker_bar.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_floorpicker_bar.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_myl_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_myl_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_icon_direction.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_icon_direction.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_floorpicker_mylocation.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_floorpicker_mylocation.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_right.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_right.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_button_compass.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_button_compass.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_zoom_up_wear.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_zoom_up_wear.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_default_marker.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_default_marker.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_down_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_down_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_middle_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_middle_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_left_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_left_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_left.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_left.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_myl_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_myl_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_floorpicker_search.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_floorpicker_search.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_12_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_12_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_standalone_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_standalone_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_ic_compass_needle.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_ic_compass_needle.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_icon_gmm.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_icon_gmm.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_button_compass.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_button_compass.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_left_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_left_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_right_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_right_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_standalone_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_standalone_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_left_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_left_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_icon_direction.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_icon_direction.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_floorpicker_mylocation.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_floorpicker_mylocation.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_info_window.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_info_window.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_default_marker.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_default_marker.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_middle_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_middle_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_floorpicker_bar.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_floorpicker_bar.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_up_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_up_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_standalone_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_standalone_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_button_compass_selector.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_button_compass_selector.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_watermark_color.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_watermark_color.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_standalone_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_standalone_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_right_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_right_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_middle_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_middle_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_myl_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_myl_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_default_marker.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_default_marker.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_icon_gmm.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_icon_gmm.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_floorpicker_bar.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_floorpicker_bar.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4_maps_blue_dot.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-nodpi-v4/maps_blue_dot.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_watermark_light.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_watermark_light.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_myl_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_myl_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_down_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_down_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_right_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_right_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_standalone_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_standalone_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_floorpicker_bg_selected.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_floorpicker_bg_selected.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_right_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_right_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_myl_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_myl_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_info_window.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_info_window.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_myl_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_myl_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_traffic_bg.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_traffic_bg.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_zoom_up_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_zoom_up_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_myl_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_myl_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_myl_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_myl_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_zoom_up_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_zoom_up_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_middle_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_middle_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_standalone_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_standalone_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_icon_direction.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_icon_direction.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4_maps_chevron.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-nodpi-v4/maps_chevron.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_myl_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_myl_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_route_line.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_route_line.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_myl_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_myl_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_up_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_up_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_button_compass.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_button_compass.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_right_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_right_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_40_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_40_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_watermark_color.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_watermark_color.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-anydpi-v21_maps_watermark_color.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-anydpi-v21/maps_watermark_color.xml"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_myl_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_myl_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_btn_myl_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_btn_myl_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_myl_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_myl_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_traffic_fill.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_traffic_fill.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_floorpicker_search.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_floorpicker_search.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_up_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_up_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_44_64.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_44_64.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_up_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_up_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_hybrid_6_32_low_zoom.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_hybrid_6_32_low_zoom.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_wear_disabled.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_wear_disabled.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_myl_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_myl_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_watermark_light.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_watermark_light.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_56_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_56_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_14_128.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_14_128.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_dav_road_48_64.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_dav_road_48_64.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_info_window.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_info_window.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_floorpicker_bar.9.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_floorpicker_bar.9.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_maps_btn_zoom_down_wear_normal.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-hdpi-v4/maps_btn_zoom_down_wear_normal.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4_maps_btn_standalone_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxxhdpi-v4/maps_btn_standalone_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_maps_btn_zoom_down_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/maps_btn_zoom_down_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_maps_icon_gmm.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-mdpi-v4/maps_icon_gmm.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_maps_btn_zoom_down_wear_pressed.png.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/maps_btn_zoom_down_wear_pressed.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/androidTest/debug/drawable_maps_btn_myl.xml.flat",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/bundles/debug/res/drawable/maps_btn_myl.xml"
+    }
+]

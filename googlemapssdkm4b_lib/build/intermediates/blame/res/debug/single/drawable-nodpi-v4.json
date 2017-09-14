@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/debug/drawable-nodpi-v4/maps_chevron.png",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/src/main/res/drawable-nodpi/maps_chevron.png"
+    },
+    {
+        "merged": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/build/intermediates/res/merged/debug/drawable-nodpi-v4/maps_blue_dot.png",
+        "source": "/Users/google_training2/tsworkspace/android/case13658323/googlemapssdkm4b_lib/src/main/res/drawable-nodpi/maps_blue_dot.png"
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="maps_compass_directions">
+    <item msgid="371990129502990442">"S"</item>
+    <item msgid="1723794399812139988">"SI"</item>
+    <item msgid="8995696828344274905">"I"</item>
+    <item msgid="8971984494345895781">"JI"</item>
+    <item msgid="7174645718252695865">"J"</item>
+    <item msgid="4863051572593926737">"JZ"</item>
+    <item msgid="6823513192569584945">"Z"</item>
+    <item msgid="1255372719355902587">"SZ"</item>
+  </string-array>
+    <string-array name="maps_full_compass_directions">
+    <item msgid="4575528752583301752">sjever</item>
+    <item msgid="4350548105276290005">sjeveroistok</item>
+    <item msgid="2941955296001395559">istok</item>
+    <item msgid="7564496420537720517">jugoistok</item>
+    <item msgid="7734963361324256142">jug</item>
+    <item msgid="2308335477702894344">jugozapad</item>
+    <item msgid="1360397508757498197">zapad</item>
+    <item msgid="5107967783299132090">sjeverozapad</item>
+  </string-array>
+    <string name="maps_API_OUTDATED_WARNING">Ova\u0020aplikacija\u0020upotrebljava\u0020zastarjelu\u0020verziju\u0020Karata.\u0020Mo\u017eda\u0020ne\u0107e\u0020raditi\u0020pravilno.</string>
+    <string name="maps_COMPASS_ALT_TEXT">Kompas</string>
+    <string name="maps_DIRECTIONS_ALT_TEXT">Upute</string>
+    <string name="maps_GOOGLE_MAP">Google karta</string>
+    <string name="maps_LEVEL_ALT_TEXT">Razina {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Moja\u0020lokacija</string>
+    <string name="maps_OPEN_GMM_ALT_TEXT">Otvori u Kartama</string>
+    <string msgid="3304805242996771621" name="maps_YOUR_LOCATION">Vaša trenutačna lokacija</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Pove\u0107aj</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Smanji</string>
+    <string msgid="2643616411547805051" name="maps_dav_map_copyrights_full">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Slike ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g><ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>, Podaci o karti ©<ns1:g id="COPYRIGHT_YEAR_2">%4$d</ns1:g><ns1:g id="MAP_DATA_PROVIDER_NAMES">%5$s</ns1:g>"</string>
+    <string msgid="2340776877486681415" name="maps_dav_map_copyrights_google_only">"©<ns1:g id="COPYRIGHT_YEAR">%1$d</ns1:g> Google"</string>
+    <string msgid="4796406852640794459" name="maps_dav_map_copyrights_imagery_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Slike ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g><ns1:g id="IMAGERY_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="7421961728654750951" name="maps_dav_map_copyrights_map_data_only">"©<ns1:g id="COPYRIGHT_YEAR_0">%1$d</ns1:g> Google - Podaci o karti ©<ns1:g id="COPYRIGHT_YEAR_1">%2$d</ns1:g><ns1:g id="MAP_DATA_PROVIDER_NAMES">%3$s</ns1:g>"</string>
+    <string msgid="5618016850433253177" name="maps_invalid_panorama_data">"Nevažeća panorama."</string>
+    <string msgid="852879677528638846" name="maps_network_unavailable">"Ovaj program zahtijeva podatkovnu vezu te će je automatski pokušati ponovo uspostaviti. Provjerite jačinu signala. Je li uključen način rada u zrakoplovu? Jesu li onemogućene podatkovne usluge u roamingu?"</string>
+    <string msgid="5724478591902584421" name="maps_no_panorama_data">"Nema panoramskog podatkovnog skupa."</string>
+    <string msgid="504349892431320733" name="maps_panorama_disabled">"Slika više nije dostupna."</string>
+    <string msgid="5623163711058333956" name="maps_service_unavailable">"Usluga prikaza ulice nije dostupna."</string>
+    <string msgid="8614145121611139475" name="maps_street_range_name_format">"%1$s %2$s"</string>
+    <string msgid="4679308263892194242" name="maps_waiting_for_network">"Podatkovna veza je izgubljena, pokušava se ponovo..."</string>
+</resources>
